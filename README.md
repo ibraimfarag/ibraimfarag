@@ -1,6 +1,7 @@
 ### Hi there 👋
 ###I'm an experienced full-stack web developer with 5+ years of experience in the field. With a deep understanding of web development and a wide range of technical
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,flutter)](https://skillicons.dev)
 <!--
 **ibraimfarag/ibraimfarag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
