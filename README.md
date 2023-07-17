@@ -1,6 +1,6 @@
 ### Hi there 👋
 ###I'm an experienced full-stack web developer with 5+ years of experience in the field. With a deep understanding of web development and a wide range of technical
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ibraimfarag=anuraghazra&show_icons=true&theme=transparent)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **ibraimfarag/ibraimfarag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
