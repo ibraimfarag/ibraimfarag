@@ -1,7 +1,15 @@
 ### Hi there 👋
-###I'm an experienced full-stack web developer with 5+ years of experience in the field. With a deep understanding of web development and a wide range of technical
+### I'm an experienced full-stack web developer with 5+ years of experience in the field. With a deep understanding of web development and a wide range of technical
+### front-end support
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,vue,react,angular)](https://ibrahimahmed.info/)
+
+### back-end support
+
+[![My Skills](https://skillicons.dev/icons?i=php,cloudflare,laravel,flutter)](https://ibrahimahmed.info/)
+
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,)](https://ibrahimahmed.info/)
 <!--
 **ibraimfarag/ibraimfarag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
