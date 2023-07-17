@@ -3,34 +3,25 @@
 
 ### front-end languages support
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,materialui,vue,react,angular)](https://ibrahimahmed.info/)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,tailwind,materialui,vue,react,angular)](https://ibrahimahmed.info/)
 
 ### back-end languages support
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,flutter,dart,py)](https://ibrahimahmed.info/)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,dart,py)](https://ibrahimahmed.info/)
 
 ## back-end frameworks support
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,flutter,wordpress)](https://ibrahimahmed.info/)
+[![My Skills](https://skillicons.dev/icons?i=laravel,flutter,wordpress,electron)](https://ibrahimahmed.info/)
 
-
+## and pipeline with
+[![My Skills](https://skillicons.dev/icons?i=jenkins,docker)](https://ibrahimahmed.info/)
 ## back-end RESTful APIs support
 
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://ibrahimahmed.info/)
 
+## databases support
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sequelize)](https://ibrahimahmed.info/)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,)](https://ibrahimahmed.info/)
-<!--
-**ibraimfarag/ibraimfarag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Deployment and Server Management support
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,postgres,sequelize)](https://ibrahimahmed.info/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
