@@ -23,5 +23,5 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sequelize)](https://ibrahimahmed.info/)
 
 ## Deployment and Server Management support
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,postgres,sequelize)](https://ibrahimahmed.info/)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://ibrahimahmed.info/)
 
