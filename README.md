@@ -15,7 +15,7 @@
 
 ## and pipeline with
 [![My Skills](https://skillicons.dev/icons?i=jenkins,docker)](https://ibrahimahmed.info/)
-## back-end RESTful APIs support
+## RESTful APIs support
 
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://ibrahimahmed.info/)
 
