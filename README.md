@@ -29,23 +29,6 @@
 ## Github stats 
 
 <details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ibrahim's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="irahim's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
-
-</details>
-
-
-<details>
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
