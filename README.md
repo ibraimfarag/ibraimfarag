@@ -26,7 +26,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://ibrahimahmed.info/)
 
 
-## Github stats 📊
+## Github stats 
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
