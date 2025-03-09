@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm an experienced full-stack web developer with 5+ years of experience in the field. With a deep understanding of web development and a wide range of technical
+### I'm an experienced full-stack web developer with 6+ years of experience in the field. With a deep understanding of web development and a wide range of technical
 
 ### front-end languages support
 
