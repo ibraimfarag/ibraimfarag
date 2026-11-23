@@ -16,9 +16,7 @@
 <br/>
 
 <!-- ══════════════════════════ TYPING LINE ══════════════════════════ -->
-<a href="https://ibrahimahmed.online/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=7FFFD4&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Ibrahim+%F0%9F%91%8B;6%2B+years+of+building+the+web;Laravel+%26+PHP+Specialist+%F0%9F%90%98;React+%7C+Vue+%7C+Angular+%E2%9A%9B%EF%B8%8F;Node.js+%7C+Flutter+%7C+Rust+%F0%9F%A6%80;Fast.+Secure.+Beautiful." alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=7FFFD4&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Ibrahim+%F0%9F%91%8B;6%2B+years+of+building+the+web;Laravel+%26+PHP+Specialist+%F0%9F%90%98;React+%7C+Vue+%7C+Angular+%E2%9A%9B%EF%B8%8F;Node.js+%7C+Flutter+%7C+Rust+%F0%9F%A6%80;Fast.+Secure.+Beautiful." alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -232,12 +230,8 @@ Cross-platform apps with **Flutter** & **Dart**, plus desktop tooling with **Ele
 
 <br/><br/>
 
-<a href="https://e-commerce-project-next-js-1.vercel.app/">
-  <img src="https://img.shields.io/badge/▶%20Live%20Demo-E--commerce-EA4335?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/>
-</a>
-<a href="https://github.com/ibraimfarag?tab=repositories">
-  <img src="https://img.shields.io/badge/All%20Repositories-Explore-2c5364?style=for-the-badge&logo=github&logoColor=7fffd4" alt="All repositories"/>
-</a>
+<img src="https://img.shields.io/badge/▶%20Live%20Demo-E--commerce-EA4335?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/>
+<img src="https://img.shields.io/badge/All%20Repositories-Explore-2c5364?style=for-the-badge&logo=github&logoColor=7fffd4" alt="All repositories"/>
 
 </div>
 
@@ -315,12 +309,8 @@ Cross-platform apps with **Flutter** & **Dart**, plus desktop tooling with **Ele
 
 <br/><br/>
 
-<a href="https://ibrahimahmed.online/">
-  <img src="https://img.shields.io/badge/Hire%20Me-ibrahimahmed.online-2c5364?style=for-the-badge&logo=googlechrome&logoColor=7fffd4" alt="Hire me"/>
-</a>
-<a href="mailto:ib.farag@gmail.com">
-  <img src="https://img.shields.io/badge/Say%20Hello-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img src="https://img.shields.io/badge/Hire%20Me-ibrahimahmed.online-2c5364?style=for-the-badge&logo=googlechrome&logoColor=7fffd4" alt="Hire me"/>
+<img src="https://img.shields.io/badge/Say%20Hello-ib.farag%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 
 <br/><br/>
 
