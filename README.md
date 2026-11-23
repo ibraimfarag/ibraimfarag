@@ -61,11 +61,16 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Website-ibrahimahmed.online-2c5364?style=for-the-badge&logo=googlechrome&logoColor=7fffd4" alt="Website"/>
+<!-- The only two clickable elements on this profile: website + email. -->
+<a href="https://ibrahimahmed.online/">
+  <img src="https://img.shields.io/badge/Website-ibrahimahmed.online-2c5364?style=for-the-badge&logo=googlechrome&logoColor=7fffd4" alt="Website"/>
+</a>
 
 <img src="https://img.shields.io/badge/GitHub-ibraimfarag-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
-<img src="https://img.shields.io/badge/Email-ib.farag%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:ib.farag@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ib.farag%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <sub><code>ibrahimahmed.online</code> &nbsp;·&nbsp; <code>ib.farag@gmail.com</code></sub>
 
@@ -73,6 +78,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 <img src="https://img.shields.io/badge/X-@YOUR_HANDLE-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 -->
+<!-- 🔗 To make a badge clickable again, wrap its <img> in an anchor tag. -->
 
 </td>
 <td valign="top" width="66%">
@@ -309,8 +315,12 @@ Cross-platform apps with **Flutter** & **Dart**, plus desktop tooling with **Ele
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Hire%20Me-ibrahimahmed.online-2c5364?style=for-the-badge&logo=googlechrome&logoColor=7fffd4" alt="Hire me"/>
-<img src="https://img.shields.io/badge/Say%20Hello-ib.farag%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://ibrahimahmed.online/">
+  <img src="https://img.shields.io/badge/Hire%20Me-ibrahimahmed.online-2c5364?style=for-the-badge&logo=googlechrome&logoColor=7fffd4" alt="Hire me"/>
+</a>
+<a href="mailto:ib.farag@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20Hello-ib.farag%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/><br/>
 
