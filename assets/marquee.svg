@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="1200" height="96" role="img" aria-label="Technology marquee">
+  <defs>
+    <linearGradient id="mcard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#070f1c"/>
+      <stop offset="50%"  stop-color="#0d1c2d"/>
+      <stop offset="100%" stop-color="#070f1c"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#000"/>
+      <stop offset="7%"   stop-color="#fff"/>
+      <stop offset="93%"  stop-color="#fff"/>
+      <stop offset="100%" stop-color="#000"/>
+    </linearGradient>
+    <mask id="edgeFade">
+      <rect width="1200" height="96" fill="url(#fade)"/>
+    </mask>
+  </defs>
+
+  <rect x="3" y="3" width="1194" height="90" rx="22" fill="url(#mcard)"/>
+  <rect x="3" y="3" width="1194" height="90" rx="22" fill="none" stroke="#7fffd4" stroke-opacity="0.22" stroke-width="1.5"/>
+
+  <g mask="url(#edgeFade)" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-3240 0" dur="42s" repeatCount="indefinite"/>
+    <rect x="0" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="84.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">PHP</text>
+    <rect x="180" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="264.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">LARAVEL</text>
+    <rect x="360" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="444.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">JAVASCRIPT</text>
+    <rect x="540" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="624.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">TYPESCRIPT</text>
+    <rect x="720" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="804.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">NODE.JS</text>
+    <rect x="900" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="984.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">VUE</text>
+    <rect x="1080" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="1164.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">REACT</text>
+    <rect x="1260" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="1344.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">ANGULAR</text>
+    <rect x="1440" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="1524.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">NEXT.JS</text>
+    <rect x="1620" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="1704.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">FLUTTER</text>
+    <rect x="1800" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="1884.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">DART</text>
+    <rect x="1980" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="2064.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">PYTHON</text>
+    <rect x="2160" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="2244.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">RUST</text>
+    <rect x="2340" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="2424.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">MYSQL</text>
+    <rect x="2520" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="2604.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">POSTGRESQL</text>
+    <rect x="2700" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="2784.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">MONGODB</text>
+    <rect x="2880" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="2964.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">REDIS</text>
+    <rect x="3060" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="3144.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">DOCKER</text>
+    <rect x="3240" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="3324.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">PHP</text>
+    <rect x="3420" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="3504.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">LARAVEL</text>
+    <rect x="3600" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="3684.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">JAVASCRIPT</text>
+    <rect x="3780" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="3864.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">TYPESCRIPT</text>
+    <rect x="3960" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="4044.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">NODE.JS</text>
+    <rect x="4140" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="4224.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">VUE</text>
+    <rect x="4320" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="4404.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">REACT</text>
+    <rect x="4500" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="4584.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">ANGULAR</text>
+    <rect x="4680" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="4764.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">NEXT.JS</text>
+    <rect x="4860" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="4944.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">FLUTTER</text>
+    <rect x="5040" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="5124.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">DART</text>
+    <rect x="5220" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="5304.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">PYTHON</text>
+    <rect x="5400" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="5484.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">RUST</text>
+    <rect x="5580" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="5664.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">MYSQL</text>
+    <rect x="5760" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="5844.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">POSTGRESQL</text>
+    <rect x="5940" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="6024.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">MONGODB</text>
+    <rect x="6120" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="6204.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">REDIS</text>
+    <rect x="6300" y="26" width="168" height="44" rx="22" fill="#7fffd4" fill-opacity="0.06" stroke="#7fffd4" stroke-opacity="0.28"/>
+    <text x="6384.0" y="54" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.6" fill="#a7f3d0">DOCKER</text>
+    </g>
+  </g>
+</svg>

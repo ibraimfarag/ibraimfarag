@@ -1,11 +1,12 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║              IBRAHIM AHMED · FULL-STACK WEB DEVELOPER                    ║ -->
 <!-- ║              "Ship it, then make it beautiful."                          ║ -->
+<!-- ║   All visuals below are self-hosted animated SVGs — no external deps.    ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- ══════════════════════ HERO BANNER (auto dark / light) ══════════════════════ -->
+<!-- ══════════════════════ HERO (auto dark / light) ══════════════════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/banner-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/banner-light.svg"/>
@@ -14,9 +15,9 @@
 
 <br/>
 
-<!-- ══════════════════════════ TYPING BANNER ══════════════════════════ -->
+<!-- ══════════════════════════ TYPING LINE ══════════════════════════ -->
 <a href="https://ibrahimahmed.online/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=900&color=7FFFD4&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ibrahim+%F0%9F%91%8B;6%2B+years+building+the+web;Laravel+%26+PHP+Specialist+%F0%9F%90%98;React+%7C+Vue+%7C+Angular+%E2%9A%9B%EF%B8%8F;Node.js+%7C+Flutter+%7C+Rust+%F0%9F%A6%80;Fast.+Secure.+Beautiful." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=7FFFD4&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Ibrahim+%F0%9F%91%8B;6%2B+years+of+building+the+web;Laravel+%26+PHP+Specialist+%F0%9F%90%98;React+%7C+Vue+%7C+Angular+%E2%9A%9B%EF%B8%8F;Node.js+%7C+Flutter+%7C+Rust+%F0%9F%A6%80;Fast.+Secure.+Beautiful." alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -27,7 +28,17 @@
 <img src="https://img.shields.io/badge/EXPERIENCE-6%2B%20YEARS-2c5364?style=for-the-badge&logo=clockify&logoColor=7fffd4"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2c5364?style=for-the-badge&logo=buffer&logoColor=7fffd4"/>
 
+<br/><br/>
+
+<!-- ══════════════════════════ TECH TICKER ══════════════════════════ -->
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/marquee.svg" width="100%" alt="Technology marquee"/>
+
 </div>
+
+<br/>
+
+<!-- ══════════════════════════ BRAND BANNER ══════════════════════════ -->
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/IMG_613vcv.png" alt="Ibrahim Ahmed" width="100%"/>
 
 <br/>
 
@@ -39,17 +50,13 @@
 
 <table>
 <tr>
-<td valign="top" width="36%" align="center">
+<td valign="top" width="34%" align="center">
 
-<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/IMG_613vcv.png" alt="Ibrahim Ahmed" width="215"/>
-
-<br/><br/>
-
-**✨ Ibrahim Ahmed**
+### ✨ Ibrahim Ahmed
 
 <sub>🇪🇬 Egypt &nbsp;·&nbsp; 🌍 Remote</sub>
 
-<br/>
+<br/><br/>
 
 [![Website](https://img.shields.io/badge/Website-ibrahimahmed.online-2c5364?style=for-the-badge&logo=googlechrome&logoColor=7fffd4)](https://ibrahimahmed.online/)
 
@@ -64,7 +71,7 @@
 -->
 
 </td>
-<td valign="top" width="64%">
+<td valign="top" width="66%">
 
 ### 👋 Hey, I'm Ibrahim
 
@@ -80,18 +87,27 @@ values:     Performance · Security · Simplicity · UX
 motto:      "Ship it, then make it beautiful."
 ```
 
-<div align="center">
-
 **🔭 Currently** — building **MIF**, an open-source cybersecurity command center
 **🌱 Learning** — Rust · Agentic AI systems
 **⚡ Fun fact** — I debug faster with a strong cup of ☕
-**📬 Say hi** — [ibrahimahmed.online](https://ibrahimahmed.online/)
-
-</div>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              CORE PROFICIENCY                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/skills.svg" width="100%" alt="Core proficiency"/>
+
+</div>
 
 <br/>
 
@@ -103,31 +119,21 @@ motto:      "Ship it, then make it beautiful."
 
 <div align="center">
 
-## 🛠️ &nbsp;Tech Stack
+## 🛠️ &nbsp;Full Toolkit
 
-<sub>Everything I reach for when building real products.</sub>
-
-<br/><br/>
-
-**🎨 Front-End**
+<br/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,jquery,bootstrap,tailwind,materialui,vue,react,angular,nextjs" alt="front-end"/>
 
 <br/><br/>
 
-**⚙️ Back-End & Frameworks**
-
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,dart,flutter,py,rust,wordpress,electron" alt="back-end"/>
 
 <br/><br/>
 
-**🗄️ Databases & ORMs**
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma,sequelize" alt="databases"/>
 
 <br/><br/>
-
-**🚀 DevOps, Cloud & Tools**
 
 <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,githubactions,gitlab,nginx,linux,aws,azure,postman,vscode,figma" alt="devops"/>
 
@@ -147,17 +153,17 @@ motto:      "Ship it, then make it beautiful."
 
 <sub>Four ways I help teams and founders ship.</sub>
 
-<br/>
+</div>
 
 <table>
 <tr>
-<td valign="top" width="50%" align="left">
+<td valign="top" width="50%">
 
 ### 🌐 &nbsp;Web Applications
 End-to-end products with **Laravel**, **Next.js**, and **Vue** — from database design to a polished, responsive UI.
 
 </td>
-<td valign="top" width="50%" align="left">
+<td valign="top" width="50%">
 
 ### 🔌 &nbsp;APIs & Backends
 RESTful APIs, secure auth flows, background jobs, and third-party integrations built to scale.
@@ -165,13 +171,13 @@ RESTful APIs, secure auth flows, background jobs, and third-party integrations b
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%" align="left">
+<td valign="top" width="50%">
 
 ### 📱 &nbsp;Mobile & Desktop
 Cross-platform apps with **Flutter** & **Dart**, plus desktop tooling with **Electron**.
 
 </td>
-<td valign="top" width="50%" align="left">
+<td valign="top" width="50%">
 
 ### ☁️ &nbsp;DevOps & Delivery
 **Docker**, CI/CD with **Jenkins** & **GitHub Actions**, deployed on **AWS** / **Azure** / Linux.
@@ -179,6 +185,20 @@ Cross-platform apps with **Flutter** & **Dart**, plus desktop tooling with **Ele
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                                  TERMINAL                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⌨️ &nbsp;In My Natural Habitat
+
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/terminal.svg" width="100%" alt="Terminal session"/>
 
 </div>
 
@@ -288,22 +308,14 @@ Cross-platform apps with **Flutter** & **Dart**, plus desktop tooling with **Ele
 <img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                                RANDOM QUOTE                                  -->
+<!--                                   FOOTER                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                                   FOOTER                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<br/><br/>
 
 <a href="https://ibrahimahmed.online/">
   <img src="https://img.shields.io/badge/Hire%20Me-ibrahimahmed.online-2c5364?style=for-the-badge&logo=googlechrome&logoColor=7fffd4" alt="Hire me"/>

@@ -1,114 +1,166 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="t1 d1">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="t1 d1">
   <title id="t1">Ibrahim Ahmed</title>
-  <desc id="d1">Animated banner: Ibrahim Ahmed, Full-Stack Web Developer</desc>
+  <desc id="d1">Animated hero: Ibrahim Ahmed, Full-Stack Web Developer</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%"   stop-color="#070e1a"/>
-      <stop offset="45%"  stop-color="#0f2436"/>
-      <stop offset="100%" stop-color="#070e1a"/>
+      <stop offset="0%"   stop-color="#050b16"/>
+      <stop offset="50%"  stop-color="#0b1d2e"/>
+      <stop offset="100%" stop-color="#050b16"/>
     </linearGradient>
 
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%"   stop-color="#7fffd4"/>
-      <stop offset="55%"  stop-color="#5eead4"/>
+      <stop offset="50%"  stop-color="#5eead4"/>
       <stop offset="100%" stop-color="#7dd3fc"/>
-      <animate attributeName="x1" values="-0.6;0.3;-0.6" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0.4;1.3;0.4" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x1" values="-0.7;0.25;-0.7" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0.35;1.3;0.35"   dur="6s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%"   stop-color="#7fffd4" stop-opacity="0"/>
-      <stop offset="20%"  stop-color="#7fffd4" stop-opacity="0.9"/>
-      <stop offset="80%"  stop-color="#7dd3fc" stop-opacity="0.9"/>
+      <stop offset="22%"  stop-color="#7fffd4" stop-opacity="0.9"/>
+      <stop offset="78%"  stop-color="#7dd3fc" stop-opacity="0.9"/>
       <stop offset="100%" stop-color="#7dd3fc" stop-opacity="0"/>
     </linearGradient>
 
+    <linearGradient id="ringG" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#7fffd4" stop-opacity="0.55"/>
+      <stop offset="50%"  stop-color="#7fffd4" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#7dd3fc" stop-opacity="0.5"/>
+    </linearGradient>
+
     <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="10" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feGaussianBlur stdDeviation="9" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
 
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" fill="none" stroke="#7fffd4" stroke-opacity="0.055" stroke-width="1"/>
+    <filter id="aurora" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="72"/>
+    </filter>
+
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M46 0H0V46" fill="none" stroke="#7fffd4" stroke-opacity="0.055" stroke-width="1"/>
     </pattern>
 
-    <radialGradient id="vig" cx="0.5" cy="0.5" r="0.75">
-      <stop offset="60%"  stop-color="#000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0.45"/>
+    <radialGradient id="vig" cx="0.5" cy="0.45" r="0.8">
+      <stop offset="55%"  stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.55"/>
     </radialGradient>
   </defs>
 
-  <!-- background -->
-  <rect width="1200" height="360" fill="url(#bg)"/>
-  <rect width="1200" height="360" fill="url(#grid)"/>
-  <rect width="1200" height="360" fill="url(#vig)"/>
+  <!-- ── base ── -->
+  <rect width="1200" height="400" fill="url(#bg)"/>
 
-  <!-- floating orbs -->
-  <circle cx="150" cy="95" r="105" fill="#7fffd4" opacity="0.10">
-    <animate attributeName="cy" values="95;140;95" dur="8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1055" cy="265" r="135" fill="#38bdf8" opacity="0.10">
-    <animate attributeName="cy" values="265;205;265" dur="11s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="915" cy="70" r="62" fill="#a78bfa" opacity="0.10">
-    <animate attributeName="cx" values="915;958;915" dur="7s" repeatCount="indefinite"/>
-  </circle>
+  <!-- ── aurora mesh ── -->
+  <g filter="url(#aurora)">
+    <ellipse cx="255" cy="120" rx="330" ry="165" fill="#0ea5e9" opacity="0.55">
+      <animate attributeName="cx" values="255;340;255" dur="16s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="950" cy="305" rx="310" ry="155" fill="#14b8a6" opacity="0.50">
+      <animate attributeName="cy" values="305;235;305" dur="19s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="600" cy="55" rx="270" ry="125" fill="#6366f1" opacity="0.34">
+      <animate attributeName="cx" values="600;520;600" dur="22s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="800" cy="360" rx="290" ry="135" fill="#22d3ee" opacity="0.32">
+      <animate attributeName="cx" values="800;880;800" dur="14s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
 
-  <!-- decorative code glyphs -->
-  <text x="52" y="318" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-        font-size="160" font-weight="700" fill="#7fffd4" opacity="0.075">&lt;/&gt;</text>
-  <text x="1005" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-        font-size="160" font-weight="700" fill="#38bdf8" opacity="0.06">{ }</text>
+  <rect width="1200" height="400" fill="url(#grid)"/>
+  <rect width="1200" height="400" fill="url(#vig)"/>
 
-  <!-- name -->
+  <!-- ── rotating rings behind the name ── -->
+  <g opacity="0.32">
+    <circle cx="600" cy="185" r="176" fill="none" stroke="url(#ringG)" stroke-width="1.2" stroke-dasharray="5 11">
+      <animateTransform attributeName="transform" type="rotate" from="0 600 185" to="360 600 185" dur="60s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="185" r="140" fill="none" stroke="url(#ringG)" stroke-width="1.2" stroke-dasharray="3 15">
+      <animateTransform attributeName="transform" type="rotate" from="360 600 185" to="0 600 185" dur="44s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ── decorative code glyphs ── -->
+  <text x="46" y="340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="168" font-weight="700" fill="#7fffd4" opacity="0.075">&lt;/&gt;</text>
+
+  <!-- ── orbit system (right) ── -->
+  <g transform="translate(1032,152)">
+    <circle r="42" fill="none" stroke="#7fffd4" stroke-opacity="0.22" stroke-width="1"/>
+    <circle r="66" fill="none" stroke="#7dd3fc" stroke-opacity="0.16" stroke-width="1"/>
+    <circle r="90" fill="none" stroke="#7fffd4" stroke-opacity="0.10" stroke-width="1"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+      <circle cx="66" cy="0" r="4.5" fill="#7fffd4">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="22s" repeatCount="indefinite"/>
+      <circle cx="90" cy="0" r="3.5" fill="#7dd3fc"/>
+    </g>
+    <circle r="6" fill="#7fffd4" opacity="0.9"/>
+  </g>
+
+  <!-- ── status pill (top-left) ── -->
+  <g>
+    <circle cx="72" cy="47" r="5" fill="#34d399">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="90" y="52" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif"
+          font-size="14" font-weight="700" letter-spacing="2.6" fill="#6ee7b7">OPEN TO WORK</text>
+  </g>
+
+  <!-- ── name ── -->
   <g filter="url(#glow)">
-    <text x="600" y="158" text-anchor="middle"
+    <text x="600" y="185" text-anchor="middle"
           font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif"
           font-size="84" font-weight="800" letter-spacing="5"
           fill="url(#accent)">IBRAHIM AHMED</text>
   </g>
 
-  <!-- subtitle -->
-  <text x="600" y="205" text-anchor="middle"
+  <!-- ── subtitle ── -->
+  <text x="600" y="229" text-anchor="middle"
         font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif"
-        font-size="22" font-weight="600" letter-spacing="9"
+        font-size="21" font-weight="600" letter-spacing="9"
         fill="#cbd5e1" opacity="0.92">FULL&#8209;STACK WEB DEVELOPER</text>
 
-  <!-- hairline rule -->
-  <rect x="330" y="228" width="540" height="2" rx="1" fill="url(#rule)"/>
+  <rect x="345" y="252" width="510" height="2" rx="1" fill="url(#rule)"/>
 
-  <!-- pills -->
+  <!-- ── specialty pills ── -->
   <g font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif"
      font-size="14" font-weight="600" letter-spacing="1.2">
 
     <g>
-      <rect x="206" y="258" width="210" height="40" rx="20" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.35"/>
-      <text x="311" y="283" text-anchor="middle" fill="#a7f3d0">6+ YEARS EXPERIENCE</text>
+      <rect x="206" y="288" width="210" height="44" rx="22" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.32"/>
+      <text x="311" y="315" text-anchor="middle" fill="#a7f3d0">6+ YEARS EXPERIENCE</text>
     </g>
     <g>
-      <rect x="428" y="258" width="112" height="40" rx="20" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.35"/>
-      <text x="484" y="283" text-anchor="middle" fill="#a7f3d0">LARAVEL</text>
+      <rect x="428" y="288" width="112" height="44" rx="22" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.32"/>
+      <text x="484" y="315" text-anchor="middle" fill="#a7f3d0">LARAVEL</text>
     </g>
     <g>
-      <rect x="552" y="258" width="100" height="40" rx="20" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.35"/>
-      <text x="602" y="283" text-anchor="middle" fill="#a7f3d0">REACT</text>
+      <rect x="552" y="288" width="100" height="44" rx="22" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.32"/>
+      <text x="602" y="315" text-anchor="middle" fill="#a7f3d0">REACT</text>
     </g>
     <g>
-      <rect x="664" y="258" width="112" height="40" rx="20" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.35"/>
-      <text x="720" y="283" text-anchor="middle" fill="#a7f3d0">NODE.JS</text>
+      <rect x="664" y="288" width="112" height="44" rx="22" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.32"/>
+      <text x="720" y="315" text-anchor="middle" fill="#a7f3d0">NODE.JS</text>
     </g>
     <g>
-      <rect x="788" y="258" width="112" height="40" rx="20" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.35"/>
-      <text x="844" y="283" text-anchor="middle" fill="#a7f3d0">FLUTTER</text>
+      <rect x="788" y="288" width="112" height="44" rx="22" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.32"/>
+      <text x="844" y="315" text-anchor="middle" fill="#a7f3d0">FLUTTER</text>
     </g>
     <g>
-      <rect x="912" y="258" width="82" height="40" rx="20" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.35"/>
-      <text x="953" y="283" text-anchor="middle" fill="#a7f3d0">RUST</text>
+      <rect x="912" y="288" width="82" height="44" rx="22" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.32"/>
+      <text x="953" y="315" text-anchor="middle" fill="#a7f3d0">RUST</text>
     </g>
 
   </g>
+
+  <!-- ── footnote ── -->
+  <text x="600" y="374" text-anchor="middle"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="13" letter-spacing="2.4" fill="#64748b">ibrahimahmed.online</text>
 </svg>
