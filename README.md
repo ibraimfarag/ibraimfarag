@@ -24,7 +24,7 @@
 
 <!-- ══════════════ LIVE GITHUB COUNTERS (dynamic · not clickable) ══════════════ -->
 <img src="https://komarev.com/ghpvc/?username=ibraimfarag&label=PROFILE+VIEWS&style=for-the-badge&color=2c5364"/>
-<img src="https://img.shields.io/github/followers/ibraimfarag?label=FOLLOWERS&style=for-the-badge&color=2c5364&logo=github&logoColor=white&cacheSeconds=1800"/>
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/followers.svg" alt="Followers"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fibraimfarag&query=%24.following&label=FOLLOWING&style=for-the-badge&color=2c5364&logo=github&logoColor=7fffd4&cacheSeconds=1800"/>
 <img src="https://img.shields.io/github/stars/ibraimfarag?label=TOTAL+STARS&style=for-the-badge&color=2c5364&logo=github&logoColor=7fffd4&cacheSeconds=1800"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fibraimfarag&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&color=2c5364&logo=github&logoColor=white&cacheSeconds=1800"/>

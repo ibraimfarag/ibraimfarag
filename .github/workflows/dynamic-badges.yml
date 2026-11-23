@@ -1,0 +1,57 @@
+name: 📈 Dynamic Badges
+
+# GitHub's REST API and its web UI report different follower counts
+# (measured: API = 24, profile page = 27). We render the number visitors
+# actually see on the profile page, so this reads the page itself.
+#
+# The generated SVG is committed to `assets/followers.svg`, which the
+# README embeds directly — no third-party badge host involved.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/dynamic-badges.yml"
+      - "scripts/followers_badge.py"
+
+# Required so the bot can commit the refreshed badge back to `main`.
+permissions:
+  contents: write
+
+concurrency:
+  group: dynamic-badges
+  cancel-in-progress: true
+
+jobs:
+  followers:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 📈 Render badge from the live follower count
+        run: python scripts/followers_badge.py > assets/followers.svg
+
+      - name: 💾 Commit badge if it changed
+        run: |
+          if git diff --quiet -- assets/followers.svg; then
+            echo "No change — badge already up to date."
+            exit 0
+          fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/followers.svg
+          git commit -m "chore: refresh followers badge [skip ci]"
+          git push
