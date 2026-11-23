@@ -37,8 +37,11 @@
 
 <br/>
 
-<!-- ══════════════════════════ BRAND BANNER ══════════════════════════ -->
-<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/IMG_613vcv.png" alt="Ibrahim Ahmed" width="100%"/>
+<!-- ══════════════════════════ BRAND BANNER (110KB, was 4.9MB) ══════════════════════════ -->
+<picture>
+  <source type="image/webp" srcset="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/brand.webp"/>
+  <img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/brand.jpg" alt="Ibrahim Ahmed" width="100%"/>
+</picture>
 
 <br/>
 
