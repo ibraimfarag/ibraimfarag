@@ -1,15 +1,16 @@
 name: 🐍 Generate Snake Animation
 
 on:
-  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  # Allow manual trigger from the Actions tab
   workflow_dispatch:
-  # Run on every push to main
   push:
     branches:
       - main
+
+# Required so the bot can push the generated SVGs to the `output` branch.
+permissions:
+  contents: write
 
 jobs:
   generate:
