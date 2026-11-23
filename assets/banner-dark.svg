@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="t1 d1">
+  <title id="t1">Ibrahim Ahmed</title>
+  <desc id="d1">Animated banner: Ibrahim Ahmed, Full-Stack Web Developer</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#070e1a"/>
+      <stop offset="45%"  stop-color="#0f2436"/>
+      <stop offset="100%" stop-color="#070e1a"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#7fffd4"/>
+      <stop offset="55%"  stop-color="#5eead4"/>
+      <stop offset="100%" stop-color="#7dd3fc"/>
+      <animate attributeName="x1" values="-0.6;0.3;-0.6" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0.4;1.3;0.4" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#7fffd4" stop-opacity="0"/>
+      <stop offset="20%"  stop-color="#7fffd4" stop-opacity="0.9"/>
+      <stop offset="80%"  stop-color="#7dd3fc" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#7dd3fc" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#7fffd4" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+
+    <radialGradient id="vig" cx="0.5" cy="0.5" r="0.75">
+      <stop offset="60%"  stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.45"/>
+    </radialGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <rect width="1200" height="360" fill="url(#vig)"/>
+
+  <!-- floating orbs -->
+  <circle cx="150" cy="95" r="105" fill="#7fffd4" opacity="0.10">
+    <animate attributeName="cy" values="95;140;95" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1055" cy="265" r="135" fill="#38bdf8" opacity="0.10">
+    <animate attributeName="cy" values="265;205;265" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="915" cy="70" r="62" fill="#a78bfa" opacity="0.10">
+    <animate attributeName="cx" values="915;958;915" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- decorative code glyphs -->
+  <text x="52" y="318" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="160" font-weight="700" fill="#7fffd4" opacity="0.075">&lt;/&gt;</text>
+  <text x="1005" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="160" font-weight="700" fill="#38bdf8" opacity="0.06">{ }</text>
+
+  <!-- name -->
+  <g filter="url(#glow)">
+    <text x="600" y="158" text-anchor="middle"
+          font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif"
+          font-size="84" font-weight="800" letter-spacing="5"
+          fill="url(#accent)">IBRAHIM AHMED</text>
+  </g>
+
+  <!-- subtitle -->
+  <text x="600" y="205" text-anchor="middle"
+        font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif"
+        font-size="22" font-weight="600" letter-spacing="9"
+        fill="#cbd5e1" opacity="0.92">FULL&#8209;STACK WEB DEVELOPER</text>
+
+  <!-- hairline rule -->
+  <rect x="330" y="228" width="540" height="2" rx="1" fill="url(#rule)"/>
+
+  <!-- pills -->
+  <g font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif"
+     font-size="14" font-weight="600" letter-spacing="1.2">
+
+    <g>
+      <rect x="206" y="258" width="210" height="40" rx="20" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.35"/>
+      <text x="311" y="283" text-anchor="middle" fill="#a7f3d0">6+ YEARS EXPERIENCE</text>
+    </g>
+    <g>
+      <rect x="428" y="258" width="112" height="40" rx="20" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.35"/>
+      <text x="484" y="283" text-anchor="middle" fill="#a7f3d0">LARAVEL</text>
+    </g>
+    <g>
+      <rect x="552" y="258" width="100" height="40" rx="20" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.35"/>
+      <text x="602" y="283" text-anchor="middle" fill="#a7f3d0">REACT</text>
+    </g>
+    <g>
+      <rect x="664" y="258" width="112" height="40" rx="20" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.35"/>
+      <text x="720" y="283" text-anchor="middle" fill="#a7f3d0">NODE.JS</text>
+    </g>
+    <g>
+      <rect x="788" y="258" width="112" height="40" rx="20" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.35"/>
+      <text x="844" y="283" text-anchor="middle" fill="#a7f3d0">FLUTTER</text>
+    </g>
+    <g>
+      <rect x="912" y="258" width="82" height="40" rx="20" fill="#7fffd4" fill-opacity="0.07" stroke="#7fffd4" stroke-opacity="0.35"/>
+      <text x="953" y="283" text-anchor="middle" fill="#a7f3d0">RUST</text>
+    </g>
+
+  </g>
+</svg>

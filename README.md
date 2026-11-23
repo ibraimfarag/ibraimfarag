@@ -1,23 +1,27 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   IBRAHIM AHMED · GITHUB PROFILE README                  ║ -->
-<!-- ║                   "Ship it, then make it beautiful."                     ║ -->
+<!-- ║              IBRAHIM AHMED · FULL-STACK WEB DEVELOPER                    ║ -->
+<!-- ║              "Ship it, then make it beautiful."                          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- ══════════════════════════ ANIMATED HEADER ══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Ibrahim%20Ahmed&fontSize=78&fontColor=ffffff&fontAlignY=33&animation=twinkling&desc=Full-Stack%20Web%20Developer&descAlignY=54&descSize=25&descColor=7fffd4" width="100%" alt="Ibrahim Ahmed"/>
+<!-- ══════════════════════ HERO BANNER (auto dark / light) ══════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/banner-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/banner-light.svg"/>
+  <img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/banner-dark.svg" alt="Ibrahim Ahmed — Full-Stack Web Developer" width="100%"/>
+</picture>
 
 <br/>
 
 <!-- ══════════════════════════ TYPING BANNER ══════════════════════════ -->
 <a href="https://ibrahimahmed.online/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=7FFFD4&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ibrahim+%F0%9F%91%8B;Full-Stack+Web+Developer+(6%2B+yrs);Laravel+%26+PHP+Specialist+%F0%9F%90%98;React+%7C+Vue+%7C+Angular+%E2%9A%9B%EF%B8%8F;Node.js+%7C+Flutter+%7C+Rust+%F0%9F%A6%80;I+build+fast%2C+secure%2C+beautiful+web+apps" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=900&color=7FFFD4&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ibrahim+%F0%9F%91%8B;6%2B+years+building+the+web;Laravel+%26+PHP+Specialist+%F0%9F%90%98;React+%7C+Vue+%7C+Angular+%E2%9A%9B%EF%B8%8F;Node.js+%7C+Flutter+%7C+Rust+%F0%9F%A6%80;Fast.+Secure.+Beautiful." alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<!-- ══════════════════════════ QUICK BADGES ══════════════════════════ -->
+<!-- ══════════════════════════ QUICK STATS ══════════════════════════ -->
 <img src="https://komarev.com/ghpvc/?username=ibraimfarag&label=PROFILE+VIEWS&style=for-the-badge&color=2c5364"/>
 <img src="https://img.shields.io/github/followers/ibraimfarag?label=FOLLOWERS&style=for-the-badge&color=2c5364&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/EXPERIENCE-6%2B%20YEARS-2c5364?style=for-the-badge&logo=clockify&logoColor=7fffd4"/>
@@ -27,6 +31,8 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/divider.svg" width="100%" alt=""/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                                  ABOUT ME                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -35,7 +41,7 @@
 <tr>
 <td valign="top" width="36%" align="center">
 
-<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/IMG_613vcv.png" alt="Ibrahim Ahmed" width="220"/>
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/IMG_613vcv.png" alt="Ibrahim Ahmed" width="215"/>
 
 <br/><br/>
 
@@ -89,31 +95,37 @@ motto:      "Ship it, then make it beautiful."
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/divider.svg" width="100%" alt=""/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                                 TECH STACK                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
+
+<sub>Everything I reach for when building real products.</sub>
+
+<br/><br/>
 
 **🎨 Front-End**
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,jquery,bootstrap,tailwind,materialui,vue,react,angular,nextjs" alt="front-end"/>
 
-<br/>
+<br/><br/>
 
 **⚙️ Back-End & Frameworks**
 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,dart,flutter,py,rust,wordpress,electron" alt="back-end"/>
 
-<br/>
+<br/><br/>
 
 **🗄️ Databases & ORMs**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma,sequelize" alt="databases"/>
 
-<br/>
+<br/><br/>
 
 **🚀 DevOps, Cloud & Tools**
 
@@ -123,48 +135,56 @@ motto:      "Ship it, then make it beautiful."
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/divider.svg" width="100%" alt=""/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                                 WHAT I DO                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;What I Do
+## 💼 &nbsp;What I Do
 
-</div>
+<sub>Four ways I help teams and founders ship.</sub>
+
+<br/>
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="left">
 
 ### 🌐 &nbsp;Web Applications
 End-to-end products with **Laravel**, **Next.js**, and **Vue** — from database design to a polished, responsive UI.
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="left">
 
 ### 🔌 &nbsp;APIs & Backends
-RESTful APIs, secure auth flows, background jobs, and integrations built to scale without drama.
+RESTful APIs, secure auth flows, background jobs, and third-party integrations built to scale.
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="left">
 
 ### 📱 &nbsp;Mobile & Desktop
-Cross-platform apps with **Flutter** and **Dart**, plus desktop tooling with **Electron**.
+Cross-platform apps with **Flutter** & **Dart**, plus desktop tooling with **Electron**.
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="left">
 
 ### ☁️ &nbsp;DevOps & Delivery
-**Docker**, CI/CD with **Jenkins** & **GitHub Actions**, and deployment on **AWS** / **Azure** / Linux.
+**Docker**, CI/CD with **Jenkins** & **GitHub Actions**, deployed on **AWS** / **Azure** / Linux.
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br/>
+
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                              FEATURED PROJECTS                               -->
@@ -172,7 +192,11 @@ Cross-platform apps with **Flutter** and **Dart**, plus desktop tooling with **E
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
+
+<sub>A few things I've designed, built, and shipped.</sub>
+
+<br/>
 
 <a href="https://github.com/ibraimfarag/MIF">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibraimfarag&repo=MIF&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fffd4&icon_color=7fffd4" alt="MIF — Cybersecurity Command Center"/>
@@ -188,17 +212,20 @@ Cross-platform apps with **Flutter** and **Dart**, plus desktop tooling with **E
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibraimfarag&repo=biomedicalstore&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fffd4&icon_color=7fffd4" alt="biomedicalstore"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://e-commerce-project-next-js-1.vercel.app/">
   <img src="https://img.shields.io/badge/▶%20Live%20Demo-E--commerce-EA4335?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/>
 </a>
-&nbsp;
-<sub>🔎 <a href="https://github.com/ibraimfarag?tab=repositories">See all repositories →</a></sub>
+<a href="https://github.com/ibraimfarag?tab=repositories">
+  <img src="https://img.shields.io/badge/All%20Repositories-Explore-2c5364?style=for-the-badge&logo=github&logoColor=7fffd4" alt="All repositories"/>
+</a>
 
 </div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                                GITHUB ANALYTICS                              -->
@@ -206,7 +233,11 @@ Cross-platform apps with **Flutter** and **Dart**, plus desktop tooling with **E
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
+
+<sub>Numbers that keep me honest.</sub>
+
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibraimfarag&theme=tokyonight" width="100%" alt="profile details"/>
 
@@ -234,16 +265,18 @@ Cross-platform apps with **Flutter** and **Dart**, plus desktop tooling with **E
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/divider.svg" width="100%" alt=""/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                              CONTRIBUTION SNAKE                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> &nbsp;Watch My Contributions Get Eaten
+## 🐍 &nbsp;Contributions, Eaten Daily
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/output/github-contribution-grid-snake.svg"/>
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/output/github-contribution-grid-snake.svg"/>
 </picture>
@@ -251,6 +284,8 @@ Cross-platform apps with **Flutter** and **Dart**, plus desktop tooling with **E
 </div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                                RANDOM QUOTE                                  -->
@@ -270,10 +305,15 @@ Cross-platform apps with **Flutter** and **Dart**, plus desktop tooling with **E
 
 <div align="center">
 
-### 🤝 Let's build something great together
+<a href="https://ibrahimahmed.online/">
+  <img src="https://img.shields.io/badge/Hire%20Me-ibrahimahmed.online-2c5364?style=for-the-badge&logo=googlechrome&logoColor=7fffd4" alt="Hire me"/>
+</a>
+<a href="mailto:ib.farag@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20Hello-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-ibrahimahmed.online-2c5364?style=for-the-badge&logo=googlechrome&logoColor=7fffd4)](https://ibrahimahmed.online/)
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer&text=Thanks%20for%20visiting%20%E2%80%A2%20%E2%98%95&fontSize=26&fontColor=7fffd4&animation=twinkling&fontAlignY=72" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/ibraimfarag/ibraimfarag/main/assets/footer.svg" width="100%" alt="Thanks for visiting"/>
 
 </div>
