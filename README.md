@@ -22,11 +22,12 @@
 
 <br/><br/>
 
-<!-- ══════════════════════════ QUICK STATS ══════════════════════════ -->
+<!-- ══════════════ LIVE GITHUB COUNTERS (dynamic · not clickable) ══════════════ -->
 <img src="https://komarev.com/ghpvc/?username=ibraimfarag&label=PROFILE+VIEWS&style=for-the-badge&color=2c5364"/>
 <img src="https://img.shields.io/github/followers/ibraimfarag?label=FOLLOWERS&style=for-the-badge&color=2c5364&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/EXPERIENCE-6%2B%20YEARS-2c5364?style=for-the-badge&logo=clockify&logoColor=7fffd4"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2c5364?style=for-the-badge&logo=buffer&logoColor=7fffd4"/>
+<img src="https://img.shields.io/github/stars/ibraimfarag?label=TOTAL+STARS&style=for-the-badge&color=2c5364&logo=github&logoColor=7fffd4"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fibraimfarag&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&color=2c5364&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/last-commit/ibraimfarag/ibraimfarag?label=LAST+COMMIT&style=for-the-badge&color=2c5364&logo=git&logoColor=7fffd4"/>
 
 <br/><br/>
 
@@ -59,18 +60,19 @@
 
 <sub>🇪🇬 Egypt &nbsp;·&nbsp; 🌍 Remote</sub>
 
-<br/><br/>
+<br/>
 
-[![Website](https://img.shields.io/badge/Website-ibrahimahmed.online-2c5364?style=for-the-badge&logo=googlechrome&logoColor=7fffd4)](https://ibrahimahmed.online/)
+<img src="https://img.shields.io/badge/Website-ibrahimahmed.online-2c5364?style=for-the-badge&logo=googlechrome&logoColor=7fffd4" alt="Website"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ibraimfarag-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibraimfarag)
+<img src="https://img.shields.io/badge/GitHub-ibraimfarag-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
-[![Email](https://img.shields.io/badge/Email-ib.farag%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ib.farag@gmail.com)
+<img src="https://img.shields.io/badge/Email-ib.farag%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 
-<!-- 🔧 Add more links, then delete these comments:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![X](https://img.shields.io/badge/X-@YOUR_HANDLE-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)
+<sub><code>ibrahimahmed.online</code> &nbsp;·&nbsp; <code>ib.farag@gmail.com</code></sub>
+
+<!-- 🔧 Add more badges as raw <img> tags (keeps them non-clickable), e.g.:
+<img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/X-@YOUR_HANDLE-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 -->
 
 </td>
@@ -221,19 +223,11 @@ Cross-platform apps with **Flutter** & **Dart**, plus desktop tooling with **Ele
 
 <br/>
 
-<a href="https://github.com/ibraimfarag/MIF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibraimfarag&repo=MIF&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fffd4&icon_color=7fffd4" alt="MIF — Cybersecurity Command Center"/>
-</a>
-<a href="https://github.com/ibraimfarag/E-commerce-project-NextJs-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibraimfarag&repo=E-commerce-project-NextJs-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fffd4&icon_color=7fffd4" alt="E-commerce (Next.js)"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ibraimfarag&repo=MIF&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fffd4&icon_color=7fffd4" alt="MIF — Cybersecurity Command Center"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ibraimfarag&repo=E-commerce-project-NextJs-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fffd4&icon_color=7fffd4" alt="E-commerce (Next.js)"/>
 <br/>
-<a href="https://github.com/ibraimfarag/Absher">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibraimfarag&repo=Absher&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fffd4&icon_color=7fffd4" alt="Absher"/>
-</a>
-<a href="https://github.com/ibraimfarag/biomedicalstore">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibraimfarag&repo=biomedicalstore&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fffd4&icon_color=7fffd4" alt="biomedicalstore"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ibraimfarag&repo=Absher&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fffd4&icon_color=7fffd4" alt="Absher"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ibraimfarag&repo=biomedicalstore&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fffd4&icon_color=7fffd4" alt="biomedicalstore"/>
 
 <br/><br/>
 
